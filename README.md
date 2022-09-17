@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
 <h1 align="center">Hi 👋, I'm Kevin Franklin</h1>
 <h3 align="center">an enthusiastic MERN stack developer from India.</h3>
