@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact, **trust me I execute plans perfectly.**
 
-- GitHub Work Profile **https://github.com/kevinFranklin**
+- 🐱‍👤GitHub Work Profile **https://github.com/kevinFranklin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
