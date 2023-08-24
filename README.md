@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinfranklin03&label=Profile%20views&color=0e75b6&style=flat" alt="kevinfranklin03" /> </p>
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **Spring Boot.**
 
 - 💬 Ask me about **MERN, Web Technology.**
 
