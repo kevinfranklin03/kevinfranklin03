@@ -75,3 +75,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=25&fontColor=fff" width="100%"/>
+</div>
