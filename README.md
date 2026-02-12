@@ -78,6 +78,12 @@
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=25&fontColor=fff" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
+
+<p align="center">
+  <i>💻 Open for collaboration | 🚀 Let's build the future together</i>
+</p>
