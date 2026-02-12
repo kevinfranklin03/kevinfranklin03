@@ -18,7 +18,6 @@
 
 ## 🎯 About Me
 
-- 🔭 Currently building **real-time fraud detection systems** with Azure Databricks & Apache Spark
 - 🤖 Specializing in **RAG-based chatbots**, streaming data pipelines, and ML model deployment
 - ⚡ Expert in **MERN Stack, Python ML/AI, Cloud Data Engineering (Azure/AWS)**
 - 🌐 Full-stack: React/Next.js frontends → Node.js/Express APIs → MongoDB/PostgreSQL/Delta Lake
