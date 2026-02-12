@@ -1,16 +1,14 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Welcome+to+My+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Data+Engineer+%F0%9F%93%8A" alt="Typing SVG" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kevin+Franklin;Full+Stack+Developer+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Data+Engineer+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">🚀 Architecting end-to-end AI-powered data solutions | From raw data to production ML systems</h3>
+<h1 align="center">Hi 👋, I'm Kevin Franklin</h1>
+<h3 align="center">Full Stack Developer | AI Engineer | Data Engineer</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </div>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kevinfranklin03&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="kevinfranklin03" /> 
